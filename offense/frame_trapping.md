@@ -32,7 +32,7 @@ Once you are pushed out of 2M[k] range, you can frame trap with 2M[g] or f.H[k].
 ### 66L
 <img src="{{site.baseurl}}/assets/66L.png" width="300" height="80">
 
-Narmaya's 66L is mostly used as a pressure starter/reset, but due to it being +2 on block, it is generally the start of your blockstrings, and will frame trap into both 5Ls at close ranges, or 2M[k] outside of throw range.
+Narmaya's 66L is mostly used as a pressure starter/reset, but due to it being +2 on block, it is generally the start of your blockstrings, and will frame trap into both 5Ls at close ranges or 2M[k] outside of throw range.
 
 There is much more information about this move in the sections on [resetting pressure]({{site.baseurl}}/offense/resets.html) and [neutral]({{site.baseurl}}/neutral/).
 
